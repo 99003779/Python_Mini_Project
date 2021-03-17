@@ -13,7 +13,7 @@
 
 ## Who:
 
-**Basically used in research field and data science fields where large data needs manipulation and extraction. **
+**Basically used in research field and data science fields where large data needs manipulation and extraction.**
 
 ## What:
 

@@ -42,5 +42,10 @@ HLR_03|Write Data|Write data to sheet|Implemented
 HLR_04|Easy accessible|Easy to handle and user friendly|Implemented
 
 ##  Low level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
+
+**ID**|**Requirements**|**Description**|**Status**
+:-----:|:-----:|:-----:|:-----:
+LLR_01|Search Data from different sheets of single xlsx file|Able to search data corresponding to a particular keyword in multiple xlsx sheets|Implemented
+LLR_02|Read Data from all the sheets|Read Data from different sheets of single xlsx file|Implemented
+LLR_03|Write Data to a master sheet as per the user input|Write data to a single master sheet as per the user input, after reading all the sheets|Implemented
+LLR_04|Printing Data|Reading the data and printing to console as well as writing data after printing to the console|Implemented

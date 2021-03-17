@@ -33,9 +33,13 @@
 
 # Detail requirements
 ## High Level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
 
+**ID**|**Requirements**|**Description**|**Status**
+:-----:|:-----:|:-----:|:-----:
+HLR_01|Search Data|Able to search data corresponding to a particular keyword|Implemented
+HLR_02|Read Data|Read Data from sheet|Implemented
+HLR_03|Write Data|Write data to sheet|Implemented
+HLR_04|Easy accessible|Easy to handle and user friendly|Implemented
 
 ##  Low level Requirements:
 --- TBD in Tabular Format 

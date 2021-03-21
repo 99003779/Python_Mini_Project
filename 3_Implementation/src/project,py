@@ -50,7 +50,7 @@ class PopulateExcel(LogFile):
         output.to_excel(writer, "MasterSheet", columns=cols, index=False)
 
         writer.save()
-
+class Summary(PopulateExcel):
     def save_summary(self, filename, summaryList):
         book = load_workbook(filename)
         writer = pd.ExcelWriter(filename, engine='openpyxl', mode='a')
@@ -73,7 +73,7 @@ class PopulateExcel(LogFile):
 
 
 # object of class has been created
-obj = PopulateExcel("DataSheet.xlsx")
+obj = Summary("DataSheet.xlsx")
 
 # function of parent class has been called using object of child class
 df = obj.read("DataSheet.xlsx")
@@ -117,6 +117,8 @@ while 1:
 obj.save_in_master("DataSheet.xlsx", concatenatedOutput)
 
 obj.save_summary("DataSheet.xlsx", summaryList)
+
+print("Data has been printed to the mastersheet")
 
 # Ali Adibi	99673798	ali.adibi@ece.gatech.edu
 

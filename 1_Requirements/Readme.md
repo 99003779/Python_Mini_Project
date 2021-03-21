@@ -3,7 +3,7 @@
  --- The code implemented, has considered the basic requirement of reading and writing data with user friendly environment.
 
 ## Defining Our System
- --- The designed code is used to read and  write data. An excel sheet has been made manually which consists of 5 sheets and 1 master sheet. Here we are searching details of an individual corresponding to a particular name and registration number in all the 5 sub-sheets. Once the data has been fetched from the sub sheets then it will be printed to the master sheet. The whole implementation is used to read a file for better searching and writing.  The code makes the study easier in the field of data science where lots and lots of data needs extraction.
+ --- The designed code is used to read and  write data. An excel sheet has been made manually which consists of 5 sheets and 1 master sheet. Here we are searching details of an individual corresponding to a particular name, registration number and email ID in all the 5 sub-sheets. Once the data has been fetched from the sub sheets then it will be printed to the master sheet. The excel sheet also consists of a summary sheet which indicates the count number of data fetched from each sheet. The whole implementation is used to read a file for better searching and writing.  The code makes the study easier in the field of data science where lots and lots of data needs extraction.
     
 ## SWOT ANALYSIS
 ![SWOT (python)](https://user-images.githubusercontent.com/78867425/111454000-2dbac580-873a-11eb-8aa0-bac850dd807b.PNG)
@@ -49,3 +49,4 @@ LLR_01|Search Data from different sheets of single xlsx file|Able to search data
 LLR_02|Read Data from all the sheets|Read Data from different sheets of single xlsx file|Implemented
 LLR_03|Write Data to a master sheet as per the user input|Write data to a single master sheet as per the user input, after reading all the sheets|Implemented
 LLR_04|Printing Data|Reading the data and printing to console as well as writing data after printing to the console|Implemented
+LLR_05|Summarize data|Reading the content of master sheet and printing the conut to the Summary Sheet| Implemented 

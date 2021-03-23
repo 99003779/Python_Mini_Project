@@ -1,8 +1,8 @@
 # PYTHON MINI PROJECT
 
-**#1. The program is a python file which is in present at:
+#1. The program is a python file which is in present at:
 
-         **** implementation --> src --> project.py****
+        **implementation --> src --> project.py**
           
 ![src](https://user-images.githubusercontent.com/78867425/112091026-9aaae100-8bba-11eb-88b4-a1c3f9dab420.PNG)
 

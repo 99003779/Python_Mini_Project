@@ -12,6 +12,10 @@
 
 **#3. After running the program, enter the necessary details which will be asked like Registration No./PS No., Name, and email ID:**
 
+![enter detail](https://user-images.githubusercontent.com/78867425/112093130-e6f82000-8bbe-11eb-9170-2726c3f85b33.PNG)
+
+![entered details](https://user-images.githubusercontent.com/78867425/112093133-e790b680-8bbe-11eb-80d2-7137b45ee52d.PNG)
+
 ![output](https://user-images.githubusercontent.com/78867425/112091739-0b063200-8bbc-11eb-9733-fc1c70ea1036.PNG)
 
 **#4. Press Enter.**
@@ -20,9 +24,7 @@
 
 **#6. Open the Datasheet excel file. And you can see the data printed onto the mastersheet.**
 
-![excel output](https://user-images.githubusercontent.com/78867425/112092254-26be0800-8bbd-11eb-9ca6-425a3edaf681.PNG)
 
 **#6. After mastersheet, summary data will be printed to the summary sheet as well, indicating the number of data fetched from every sheet.**
 
-![summary output](https://user-images.githubusercontent.com/78867425/112092375-5cfb8780-8bbd-11eb-9295-a78d50136099.PNG)
 **

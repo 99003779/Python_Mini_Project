@@ -39,7 +39,7 @@ Once the data has been fetched from the sub sheets then it will be printed to th
 **
 
 ## Challenges Faced and How was it overcome 
-Initially hard coded was implemented but soft coded
-Excelsheet was not linked initially with thepython file.
-Multiple entry was not there initially
-Summary Sheet was not understandable initially but later understood after discussion with faculty
+* Initially hard coded was implemented but soft coded
+* Excelsheet was not linked initially with thepython file.
+* Multiple entry was not there initially
+* Summary Sheet was not understandable initially but later understood after discussion with faculty

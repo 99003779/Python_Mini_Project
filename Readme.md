@@ -43,3 +43,10 @@ Once the data has been fetched from the sub sheets then it will be printed to th
 * Excelsheet was not linked initially with thepython file.
 * Multiple entry was not there initially
 * Summary Sheet was not understandable initially but later understood after discussion with faculty
+
+## Learning Resources 
+* https://www.w3schools.com/python/python_file_open.asp
+* https://www.w3schools.com/python/python_file_handling.asp
+* https://www.w3schools.com/python/python_file_write.asp
+* https://www.codecademy.com/catalog/language/python
+* https://www.python-course.eu/advanced_python.php
